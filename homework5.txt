@@ -1,0 +1,127 @@
+1.1.1.1/1
+
+Subnet Mask:	128.0.0.0
+Network Address: 0.0.0.0
+Broadcast Address:127.255.255.255
+First Address: 0.0.0.1
+Last Address: 127.255.255.254
+Number of Hosts: 2,147,483,646
+Number of Subnets: 2
+Usable Address Range: 127.255.255.255
+
+1.1.1.1/3 
+
+Subnet Mask:224.0.0.0
+Network Address: 0.0.0.0
+Broadcast Address: 31.255.255.255
+First Address: 0.0.0.1
+Last Address: 31.255.255.254
+Number of Hosts: 536,870,910
+Number of Subnets: 8
+Usable Address Range: 31.255.255.255
+
+
+
+1.1.1.1/21
+
+Subnet Mask: 255.255.248.0
+Network Address: 1.1.0.0
+Broadcast Address: 1.1.7.255
+First Address: 1.1.0.1
+Last Address: 1.1.7.254
+Number of Hosts: 2,046
+Number of Subnets: 2^21
+Usable Address Range: 0.0.7.255
+
+
+10.7.23.17/14
+
+Subnet Mask:255.252.0.0
+Network Address:10.4.0.0
+Broadcast Address:10.7.255.255
+First Address:10.4.0.1
+Last Address: 10.7.255.254
+Number of Hosts: 262,142
+Number of Subnets: 16,384
+Usable Address Range: 0.3.255.255
+
+
+172.16.74.29/3
+
+Subnet Mask: 	224.0.0.0
+Network Address: 160.0.0.0
+Broadcast Address: 191.255.255.255
+First Address: 160.0.0.1
+Last Address: 191.255.255.254
+Number of Hosts: 536,870,910
+Number of Subnets: 8
+Usable Address Range: 31.255.255.255
+
+
+
+192.168.42.7/18
+
+
+Subnet Mask: 255.255.192.0
+Network Address: 192.168.0.0
+Broadcast Address: 192.168.63.255
+First Address: 192.168.0.1
+Last Address: 192.168.63.254
+Number of Hosts: 16,382
+Number of Subnets: 2^18
+Usable Address Range: 0.0.63.255
+
+
+249.249.249.249/19
+
+Subnet Mask: 255.255.224.0
+Network Address:	249.249.224.0
+Broadcast Address: 249.249.255.255
+First Address: 	249.249.224.1
+Last Address: 249.249.255.254
+Number of Hosts: 8,190
+Number of Subnets: 2^19
+Usable Address Range: 0.0.31.255
+
+
+
+
+123.234.219.198/27
+
+Subnet Mask: 	255.255.255.224
+Network Address: 123.234.219.192
+Broadcast Address: 123.234.219.223
+First Address: 123.234.219.193
+Last Address: 123.234.219.222
+Number of Hosts: 30
+Number of Subnets: 2^27
+Usable Address Range: 0.0.0.31
+
+
+
+119.132.159.222/7
+
+
+Subnet Mask: 254.0.0.0
+Network Address: 	118.0.0.0
+Broadcast Address: 	119.255.255.255
+First Address: 118.0.0.1
+Last Address: 119.255.255.254
+Number of Hosts: 33,554,430
+Number of Subnets: 128
+Usable Address Range: 1.255.255.255
+
+
+142.245.172.210/10
+
+Subnet Mask: 255.192.0.0
+Network Address: 142.192.0.0
+Broadcast Address: 142.255.255.255
+First Address: 	142.192.0.1
+Last Address: 142.255.255.254
+Number of Hosts: 4,194,302
+Number of Subnets: 2^10
+Usable Address Range: 0.63.255.255
+
+
+
